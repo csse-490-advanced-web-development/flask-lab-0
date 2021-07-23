@@ -3,7 +3,10 @@ WIP on Lab 0
 
 
 
-### Project Setup
+## Project Setup
+
+
+### Cloning and Installing Dependencies
 
 Make sure you have Python 3.9 [installed locally](https://docs.python-guide.org/starting/installation/). To push to Heroku, you'll also need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)).
 
@@ -26,7 +29,7 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 The `--reload` flag ensures that the server reloads your code as you make changes.
 
-### Deploying to Heroku
+## Deploying to Heroku
 
 ### Creating the Heroku application
 
