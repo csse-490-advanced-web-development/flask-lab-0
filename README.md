@@ -11,7 +11,7 @@ Make sure you have Python 3.9 [installed locally](https://docs.python-guide.org/
 
 ```sh
 $ git clone <repo url>
-$ cd CSSE-490-lab-0
+$ cd lab-0-<your_github_username>
 
 $ python3 -m venv venv
 $ source venv/bin/activate
