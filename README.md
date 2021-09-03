@@ -1,7 +1,6 @@
 # CSSE-490-lab-0
-WIP on Lab 0
 
-
+Lab 0: Deploying Our First Flask App
 
 ## Project Setup
 
